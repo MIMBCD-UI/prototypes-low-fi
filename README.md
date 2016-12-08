@@ -1,5 +1,5 @@
 # Institute for Systems and Robotics (ISR-Lisboa)
-![alt tag](isr-logo.png "Logo")
+![alt tag](assets/isr-logo.png "Logo")
 ## Master Project Repository
 
 Abstracted from a Master Project at [ISR](http://welcome.isr.tecnico.ulisboa.pt/), [IST](http://tecnico.ulisboa.pt/) - [Universidade de Lisboa](http://ulisboa.pt/).

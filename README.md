@@ -1,6 +1,7 @@
 # Institute for Systems and Robotics (ISR-Lisboa)
 ![alt tag](assets/isr-logo.png "Logo")
-## Master Project Repository
+
+## Low-Fi Prototypes Repository
 
 Abstracted from a Master Project at [ISR](http://welcome.isr.tecnico.ulisboa.pt/), [IST](http://tecnico.ulisboa.pt/) - [Universidade de Lisboa](http://ulisboa.pt/).
 

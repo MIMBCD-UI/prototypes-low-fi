@@ -1,0 +1,81 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="B63D7025-96A8-EA11-94D4-784F435EC7F5" platform="MtWeb" defaultW="1100" defaultH="6000" measureW="1100" measureH="6000" mobileScreenScale="0">
+  <controls controlCount="13">
+    <control controlID="EE76D332-96A8-EA11-94D4-784F435EC7F5" controlTypeID="BrowserWindow" x="20" y="20" w="804" h="633" zOrder="0">
+      <font family=".AppleSystemUIFont" displayName=".AppleSystemUIFont" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Browser%0Ahttp%3A%2F%2Fbreastscreening.isr.tecnico.ulisboa.pt</text>
+      <textSize>14</textSize>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="F277D332-96A8-EA11-94D4-784F435EC7F5" controlTypeID="Label" x="32" y="96" w="212" h="48" zOrder="1">
+      <font family=".AppleSystemUIFont" displayName=".AppleSystemUIFont" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>MIMBCD-UI</text>
+      <textSize>40</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="A2A70049-96A8-EA11-94D4-784F435EC7F5" controlTypeID="Panel" x="32" y="197" w="100" h="417" zOrder="2">
+      <groupChildrenDescriptors>
+        <control controlID="F0D10049-96A8-EA11-94D4-784F435EC7F5" controlTypeID="Border" x="0" y="0" w="100" h="417" zOrder="0">
+          <alias>borderLayer</alias>
+        </control>
+      </groupChildrenDescriptors>
+      <thinkness>1</thinkness>
+    </control>
+    <control controlID="E6537BF6-96A8-EA11-94D4-784F435EC7F5" controlTypeID="Image" x="148" y="197" w="664" h="417" zOrder="3">
+      <URL>4D4AFE2C66C6C28EEAA91F076C9C8D60.jpg</URL>
+    </control>
+    <control controlID="EC180A01-97A8-EA11-94D4-784F435EC7F5" controlTypeID="Image" x="32" y="214" w="100" h="120" zOrder="4">
+      <URL>B5FB202ADB74FA1F53B393C703C39AB0.png</URL>
+    </control>
+    <control controlID="5030A41D-97A8-EA11-94D4-784F435EC7F5" controlTypeID="Image" x="32" y="354" w="100" h="120" zOrder="5">
+      <URL>77FC68F380CBBC290339AA146591B8B5.png</URL>
+    </control>
+    <control controlID="38AF927C-97A8-EA11-94D4-784F435EC7F5" controlTypeID="Image" x="32" y="494" w="100" h="120" zOrder="6">
+      <URL>67643BD3509DA8C42CF0DA1FBF2A1FE6.png</URL>
+    </control>
+    <control controlID="221631B5-97A8-EA11-94D4-784F435EC7F5" controlTypeID="Label" x="72" y="477" w="19" h="17" zOrder="7">
+      <font family=".AppleSystemUIFont" displayName=".AppleSystemUIFont" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>US</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="26E5BDC3-97A8-EA11-94D4-784F435EC7F5" controlTypeID="Label" x="59" y="337" w="46" h="17" zOrder="8">
+      <font family=".AppleSystemUIFont" displayName=".AppleSystemUIFont" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>MLO-R</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="5ADC25E5-97A8-EA11-94D4-784F435EC7F5" controlTypeID="Label" x="59" y="197" w="44" h="17" zOrder="9">
+      <font family=".AppleSystemUIFont" displayName=".AppleSystemUIFont" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>MLO-L</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="06E1D36C-98A8-EA11-94D4-784F435EC7F5" controlTypeID="Image" x="270" y="144" w="419" h="47" zOrder="10">
+      <URL>49D6862352BF01FF47B012F64A788B71.png</URL>
+    </control>
+    <control controlID="C2802BE6-98A8-EA11-94D4-784F435EC7F5" controlTypeID="Alert" x="605" y="477" w="200" h="130" zOrder="11">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="18AE273D-9AA8-EA11-94D4-784F435EC7F5" linkType="ltPageLink" isApplyIncludePage="False" title="Accept">
+          <area shape="0" alt="" ID="{0CAA9656-9AA8-EA11-94D4-784F435EC7F5}" coords="(4.5,94.5,95.5,125.5)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Reject">
+          <area shape="0" alt="" ID="{42B59656-9AA8-EA11-94D4-784F435EC7F5}" coords="(104.5,94.5,195.5,125.5)"/>
+        </link>
+      </links>
+      <font family=".AppleSystemUIFont" displayName=".AppleSystemUIFont" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Assistant%0AFor+this+patient%2C+I+am+only+45%25+sure+of+being+right.+My+estimated+BIRADS+is%3A+5%0AAccept%2CReject</text>
+      <lineSpacing>0</lineSpacing>
+      <selection>MBNo</selection>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

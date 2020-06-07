@@ -1,0 +1,39 @@
+﻿<project version="2.9" name="mimbcdui_uta11_passive" ID="9E338D08-95A8-EA11-94D4-784F435EC7F5">
+  <params>
+    <pageParam version="5.3" minAllowVersion="5.3"/>
+    <projectParam version="2.9" minAllowVersion="2.9" platform="MtWeb" pageSize="(1100,6000)" backgroundColor="4294967295" fontSize="0" fontFamily="" projectType="ptPersonalProject" isShowTitleIndex="False"/>
+    <previewParam version="1.0"/>
+    <colorParam version="1.0"/>
+  </params>
+  <pages>
+    <page name="Home" ID="FC348D08-95A8-EA11-94D4-784F435EC7F5" expanded="True" code="5PdtfhC1tb" thumbCode="5PdtfhC1tb" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="Main View-port" ID="B63D7025-96A8-EA11-94D4-784F435EC7F5" expanded="True" code="XEvQSnjTdi" thumbCode="XEvQSnjTdi" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="67643BD3509DA8C42CF0DA1FBF2A1FE6.png"/>
+        <image key="49D6862352BF01FF47B012F64A788B71.png"/>
+        <image key="B5FB202ADB74FA1F53B393C703C39AB0.png"/>
+        <image key="4D4AFE2C66C6C28EEAA91F076C9C8D60.jpg"/>
+        <image key="77FC68F380CBBC290339AA146591B8B5.png"/>
+      </images>
+      <page name="Accept" ID="18AE273D-9AA8-EA11-94D4-784F435EC7F5" expanded="True" code="jXH6PF9Xct" thumbCode="wJzRGndHah" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="67643BD3509DA8C42CF0DA1FBF2A1FE6.png"/>
+          <image key="49D6862352BF01FF47B012F64A788B71.png"/>
+          <image key="4D4AFE2C66C6C28EEAA91F076C9C8D60.jpg"/>
+          <image key="77FC68F380CBBC290339AA146591B8B5.png"/>
+          <image key="B5FB202ADB74FA1F53B393C703C39AB0.png"/>
+        </images>
+      </page>
+    </page>
+  </pages>
+  <trash/>
+  <deletes/>
+  <masters/>
+  <images>
+    <image key="67643BD3509DA8C42CF0DA1FBF2A1FE6.png"/>
+    <image key="49D6862352BF01FF47B012F64A788B71.png"/>
+    <image key="B5FB202ADB74FA1F53B393C703C39AB0.png"/>
+    <image key="4D4AFE2C66C6C28EEAA91F076C9C8D60.jpg"/>
+    <image key="77FC68F380CBBC290339AA146591B8B5.png"/>
+  </images>
+</project>

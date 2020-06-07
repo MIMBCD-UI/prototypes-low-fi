@@ -1,0 +1,44 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="FC348D08-95A8-EA11-94D4-784F435EC7F5" platform="MtWeb" defaultW="1100" defaultH="6000" measureW="1100" measureH="6000" mobileScreenScale="0">
+  <controls controlCount="4">
+    <control controlID="80792912-95A8-EA11-94D4-784F435EC7F5" controlTypeID="BrowserWindow" x="20" y="20" w="804" h="633" zOrder="0">
+      <font family=".AppleSystemUIFont" displayName=".AppleSystemUIFont" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Mockplus%0Ahttp%3A%2F%2Fbreastscreening.isr.tecnico.ulisboa.pt</text>
+      <textSize>14</textSize>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="845E953A-95A8-EA11-94D4-784F435EC7F5" controlTypeID="List" x="32" y="154" w="780" h="450" zOrder="1">
+      <color>4293980400</color>
+      <font family=".AppleSystemUIFont" displayName=".AppleSystemUIFont" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Patient+Name%0AMaria+Teresa+Lopes%0AAna+Sousa%0AMariana+Sampaio</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedColor>4288256409</selectedColor>
+      <interlaceColor>4291611852</interlaceColor>
+      <separatorColor>4291611852</separatorColor>
+      <showSeparator>True</showSeparator>
+      <selectedTextColor>4294967295</selectedTextColor>
+    </control>
+    <control controlID="16FCE09B-95A8-EA11-94D4-784F435EC7F5" controlTypeID="Label" x="32" y="96" w="212" h="48" zOrder="2">
+      <font family=".AppleSystemUIFont" displayName=".AppleSystemUIFont" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>MIMBCD-UI</text>
+      <textSize>40</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="162C3909-96A8-EA11-94D4-784F435EC7F5" controlTypeID="Button" x="175" y="208" w="60" h="20" zOrder="3">
+      <font family=".AppleSystemUIFont" displayName=".AppleSystemUIFont" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>GO</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>
